@@ -1,7 +1,5 @@
 # Company OS case study
 
-> Suggested repository name: `company-os-case-study`
-
 A local-first, multi-agent operating system for routing business work, grounding decisions in private evidence, retaining only approved learning, and enforcing security and human review across multiple AI clients.
 
 **Implementation note:** The source repositories are private because they contain proprietary operating logic and business context. This public repository is an architecture and engineering case study. It does not claim that the system is production-ready.
