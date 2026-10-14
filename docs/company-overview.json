@@ -1,0 +1,20 @@
+{
+  "reportType": "SOURCE_CONTRACT_INSPECTION",
+  "generatedBy": "Portfolio source inspection",
+  "runtimeWorkflowExecuted": false,
+  "singleApplicationScreen": false,
+  "operatingLayer": {
+    "sourceCommit": "961725bae7787d513d209e0d6470dc1862a6b5d3",
+    "declaredProductionState": "NO_GO"
+  },
+  "routingLayer": {
+    "sourceCommit": "76ee13800a5dfee30a0c066751a68bb7781e4166",
+    "routingBoundary": "DRY_RUN_ONLY",
+    "routeReadyIsExecutionAuthority": false
+  },
+  "humanBoundary": {
+    "reviewRequired": true,
+    "testPassIsPublicationAuthority": false
+  },
+  "integrationReadiness": "NOT_ESTABLISHED"
+}
