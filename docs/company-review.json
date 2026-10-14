@@ -1,0 +1,7 @@
+{
+  "humanBoundary": {
+    "reviewRequired": true,
+    "testPassIsPublicationAuthority": false
+  },
+  "integrationReadiness": "NOT_ESTABLISHED"
+}
