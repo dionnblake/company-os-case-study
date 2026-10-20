@@ -1,0 +1,47 @@
+{
+  "captured_on": "2026-10-20",
+  "scope": "Actual visual shell | Development fixtures | Read only | No live telemetry",
+  "capture_type": "Actual browser-rendered existing interface",
+  "screenshot_count": 4,
+  "screenshots": [
+    {
+      "image": "assets/company-overview-screen.jpg",
+      "label": "Overview and work status",
+      "sha256": "fcfc92a92a322929a150986d8ea52e3d088baa31932abdcd1742764e16fd2936",
+      "dimensions": [
+        1524,
+        679
+      ]
+    },
+    {
+      "image": "assets/company-work-review-screen.jpg",
+      "label": "Work queue and owner attention",
+      "sha256": "8b08f60c51d4def6930e9d586e7d06cbf3a1522cbdb3941087c134416ce3b7c4",
+      "dimensions": [
+        1524,
+        679
+      ]
+    },
+    {
+      "image": "assets/company-systems-screen.jpg",
+      "label": "Governance gates and systems",
+      "sha256": "e9667dc915eef1d5e5d26492a2af50bbeb665818555a17d7576640186f9c2a10",
+      "dimensions": [
+        1524,
+        679
+      ]
+    },
+    {
+      "image": "assets/company-command-screen.jpg",
+      "label": "Command preview and production boundary",
+      "sha256": "c89f1e37cc213e7f0f4aad7a17a9e3120ef418d4b55e4c9b8d3a3054c30ed97c",
+      "dimensions": [
+        1524,
+        679
+      ]
+    }
+  ],
+  "live_provider_calls": 0,
+  "production_writes": 0,
+  "private_source_published": false
+}
