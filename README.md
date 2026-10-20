@@ -2,6 +2,10 @@
 
 **Human-controlled AI workflow orchestration.**
 
+[![Company OS: animated visual walkthrough](assets/demo.gif)](docs/WALKTHROUGH.md)
+
+*15-second looping slideshow of the existing public images. Architecture / source-contract reports | No single app UI | No integrated runtime recording.*
+
 Business work often crosses projects, tools and sessions. A request needs an owner, a bounded execution scope, evidence and a reviewable handoff. Company OS is a set of cooperating local systems and contracts, rather than one standalone command-center application.
 
 ![Company OS Case Study: company overview](assets/company-overview.png)
